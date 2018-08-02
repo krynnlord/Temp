@@ -1,0 +1,11 @@
+/home/cthulhu/Projects/Temp/bin/Debug/netcoreapp2.1/Temp.deps.json
+/home/cthulhu/Projects/Temp/bin/Debug/netcoreapp2.1/Temp.runtimeconfig.json
+/home/cthulhu/Projects/Temp/bin/Debug/netcoreapp2.1/Temp.runtimeconfig.dev.json
+/home/cthulhu/Projects/Temp/bin/Debug/netcoreapp2.1/Temp.dll
+/home/cthulhu/Projects/Temp/bin/Debug/netcoreapp2.1/Temp.pdb
+/home/cthulhu/Projects/Temp/obj/Debug/netcoreapp2.1/Temp.csprojAssemblyReference.cache
+/home/cthulhu/Projects/Temp/obj/Debug/netcoreapp2.1/Temp.csproj.CoreCompileInputs.cache
+/home/cthulhu/Projects/Temp/obj/Debug/netcoreapp2.1/Temp.AssemblyInfoInputs.cache
+/home/cthulhu/Projects/Temp/obj/Debug/netcoreapp2.1/Temp.AssemblyInfo.cs
+/home/cthulhu/Projects/Temp/obj/Debug/netcoreapp2.1/Temp.dll
+/home/cthulhu/Projects/Temp/obj/Debug/netcoreapp2.1/Temp.pdb
